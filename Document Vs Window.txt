@@ -1,0 +1,9 @@
+Difference Between Window And Document
+--------------------------------------
+1.Window is the top most object in the browser, its a root level in javascript hierarchy.
+2.Document is the inside the window object.
+3.window object represent tab/ window.
+4.Document represent the html elements.
+5.major differnece of window and document is window.open() open new tab, document.open() create blank document inside the window.
+6.document object for manipulation inside the document.
+ 
